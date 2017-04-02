@@ -8,3 +8,5 @@ git add
 git status
 git commit
 版本退回怎么做呢？
+测试缓存区和分支的概念
+我想说你妹啊，瞎改 
