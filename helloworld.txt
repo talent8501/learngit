@@ -1,1 +1,9 @@
 ﻿你好，Github！
+我要多加几行
+看看git能不能看出我的变化
+git status可以查看仓库当前的状态
+git diff 可以查看文件做了哪些修改
+确定之后继续两部
+git add 
+git status
+git commit
